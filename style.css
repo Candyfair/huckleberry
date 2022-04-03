@@ -27,6 +27,7 @@ header .max-width-wrapper {
 
 .intro-chunk {
   padding-top: 48px;
+  padding-bottom: 32px;
 }
 
 h1 {
@@ -37,6 +38,7 @@ header p {
   max-width: 375px;
   padding-left: 16px;
   line-height: 1.5;
+  font-size: 1.25rem;
 }
 
 strong {
@@ -63,6 +65,7 @@ main .max-width-wrapper {
   background-color: hsl(0deg, 0%, 100%);
   border-bottom: 8px solid hsl(0deg, 0%, 40%);
   padding-top: 8px;
+  padding-right: 16px;
 }
 
 h2 {
@@ -79,4 +82,5 @@ main p {
   padding-left: 16px;
   padding-right: 16px;
   line-height: 1.5;
+  font-size: 1.25rem;
 }
